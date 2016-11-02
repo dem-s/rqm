@@ -20,13 +20,13 @@
 {
 "id": "4",
 "text": "Falsehood is never in words; it is in things.",
-"author": "Italo Calvino, Invisible Cities"
+"author": "Italo Calvino"
 },
 
 {
 "id": "5",
 "text": "It doesn't make a damned bit of difference who wins the war to someone who's dead.",
-"author": "Joseph Heller, Catch-22"
+"author": "Joseph Heller"
 },
 
 {
@@ -37,8 +37,8 @@
 
 {
 "id": "7",
-"text": "If you have a craftsman's command of the language and basic writing techniques you'll be able to write - as long as you know what you want to say.",
-"author": "Jeffrey Deaver"
+"text": "Time is a great teacher, but unfortunately it kills all its pupils.",
+"author": "Louis Hector Berlioz"
 },
 
 {
@@ -49,8 +49,8 @@
 
 {
 "id": "9",
-"text": "Look up to the sky. <br>You'll never find rainbows <br>If you’re looking down.",
-"author": "Charlie Chaplin - Swing little girl"
+"text": "Look up to the sky. You'll never find rainbows if you’re looking down.",
+"author": "Charlie Chaplin"
 },
 
 {
@@ -79,8 +79,8 @@
 
 {
 "id": "14",
-"text": "He who studies without passion will never become anything more than a pedant. We must approach knowledge from the inside; inspired by passion.",
-"author": "Stefan Zweig, Confusion of Feelings"
+"text": "He who studies without passion will never become anything more than a pedant.",
+"author": "Stefan Zweig"
 },
 
 {
@@ -139,7 +139,7 @@
 
 {
 "id": "24",
-"text": "There are two possible outcomes: if the result confirms the hypothesis, then you've made a measurement. If the result is contrary to the hypothesis, then you've made a discovery.",
+"text": "If the result confirms the hypothesis, then you've made a measurement. If the result is contrary to the hypothesis, then you've made a discovery.",
 "author": "Enrico Fermi"
 }
 
