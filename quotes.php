@@ -1,4 +1,4 @@
-{"quotes": [
+[
 {
 "id": "1",
 "text": "I got everything from someone. Nobody can be original.",
@@ -143,4 +143,4 @@
 "author": "Enrico Fermi"
 }
 
-]}
+]
